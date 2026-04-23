@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/chat_client.dir/link.d CMakeFiles/chat_client.dir/client/main.cpp.o -o chat_client  libgroupchat_shared.a

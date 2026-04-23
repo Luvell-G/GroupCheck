@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgroupchat_shared.a CMakeFiles/groupchat_shared.dir/shared/protocol.cpp.o CMakeFiles/groupchat_shared.dir/shared/logger.cpp.o CMakeFiles/groupchat_shared.dir/shared/metrics.cpp.o CMakeFiles/groupchat_shared.dir/server/cache.cpp.o CMakeFiles/groupchat_shared.dir/server/memory_pager.cpp.o CMakeFiles/groupchat_shared.dir/server/group_manager.cpp.o CMakeFiles/groupchat_shared.dir/server/thread_pool.cpp.o CMakeFiles/groupchat_shared.dir/server/chat_server.cpp.o CMakeFiles/groupchat_shared.dir/client/chat_client.cpp.o
+/usr/bin/ranlib libgroupchat_shared.a
