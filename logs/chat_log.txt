@@ -4,3 +4,10 @@
 2026-04-21 19:30:20 JOIN sender=1000 group=7 fd=4
 2026-04-21 19:30:20 JOIN sender=1001 group=7 fd=5
 2026-04-21 19:30:20 TEXT sender=1000 group=7 payload="hello from bot A"
+2026-04-23 18:25:45 JOIN sender=1000 group=1 fd=4
+2026-04-23 18:26:02 TEXT sender=1000 group=1 payload="hello from client 1"
+2026-04-23 18:26:47 JOIN sender=1001 group=1 fd=5
+2026-04-23 18:27:09 TEXT sender=1000 group=1 payload="this is a second message"
+2026-04-23 18:27:51 TEXT sender=1001 group=1 payload="hello back from client 2"
+2026-04-23 18:42:08 JOIN sender=1002 group=5 fd=7
+2026-04-23 18:42:13 JOIN sender=1002 group=1 fd=7
